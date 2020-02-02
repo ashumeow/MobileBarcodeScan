@@ -4,7 +4,7 @@
 Scan Barcode directly or get information via camera using Android
 
 <b>Demo:</b><br>
-Download APK -> <a href="">Click here!</a> <br>
+Download APK -> <a href="https://github.com/ashumeow/MobileBarcodeScan/raw/master/apk/barcode_ashumeow.apk">Click here!</a> <br>
 (Android OS: 4.4 or above)
 
 <b>For Donation :</b> <br>
