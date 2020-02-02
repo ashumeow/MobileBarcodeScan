@@ -9,3 +9,6 @@ Download APK -> <a href="https://github.com/ashumeow/MobileBarcodeScan/raw/maste
 
 <b>For Donation :</b> <br>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ashumeow)
+
+<b>Other Relevant Works</b><br>
+[1] <a href="https://github.com/ashumeow/BarcodeImage_Generate_Read">Barcode Image Generation using PHP and 2D Barcode Image Reader using VB.NET</a>
